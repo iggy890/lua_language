@@ -524,4 +524,3 @@ assert(a == 3 and b == 14)
 print('OK')
 
 return res
-

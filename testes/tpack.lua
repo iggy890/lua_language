@@ -319,4 +319,3 @@ do    -- testing initial position
 end
 
 print "OK"
-
